@@ -1,0 +1,44 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset=".56" stop-color="#0D1B2E"/><stop offset="1" stop-color="#12132A"/></linearGradient>
+<linearGradient id="accent" x1="92" y1="70" x2="1040" y2="306" gradientUnits="userSpaceOnUse"><stop stop-color="#7CF7D4"/><stop offset=".55" stop-color="#78A9FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="warm" x1="860" y1="65" x2="1070" y2="294" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB86B"/><stop offset="1" stop-color="#FF6B8A"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#A9C1DD" stroke-opacity=".06"/></pattern>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<path d="M0 282C190 248 310 338 505 300C703 261 778 172 965 196C1064 209 1126 245 1200 225V360H0V282Z" fill="#101E32" fill-opacity=".72"/>
+<circle cx="1060" cy="50" r="116" fill="#7C3AED" fill-opacity=".09"/>
+<circle cx="1082" cy="304" r="126" fill="#FF6B8A" fill-opacity=".06"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+<rect x="72" y="62" width="268" height="34" rx="17" fill="#0A1727" stroke="#7CF7D4" stroke-opacity=".42"/>
+<circle cx="92" cy="79" r="5" fill="#7CF7D4"/>
+<text x="108" y="84" fill="#9EB3C9" font-size="14" letter-spacing=".8">redsteadz@build:~$ whoami</text>
+<text x="72" y="174" fill="url(#accent)" font-family="ui-sans-serif, system-ui, sans-serif" font-size="62" font-weight="800" letter-spacing="2">HAMEES EHSAN</text>
+<text x="76" y="216" fill="#DDE8F4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="500">Backend systems · open source · playful software</text>
+<text x="76" y="258" fill="#8FA8C1" font-size="15" letter-spacing=".6">Karachi, Pakistan  /  building useful things from first principles</text>
+<rect x="74" y="288" width="148" height="32" rx="16" fill="#7CF7D4" fill-opacity=".1" stroke="#7CF7D4" stroke-opacity=".36"/>
+<text x="96" y="309" fill="#7CF7D4" font-size="13">production APIs</text>
+<rect x="236" y="288" width="124" height="32" rx="16" fill="#78A9FF" fill-opacity=".1" stroke="#78A9FF" stroke-opacity=".36"/>
+<text x="260" y="309" fill="#9FC2FF" font-size="13">game logic</text>
+<rect x="374" y="288" width="148" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".36"/>
+<text x="397" y="309" fill="#C4B5FD" font-size="13">developer tools</text>
+</g>
+<g>
+<path d="M862 89C932 72 969 119 1000 161C1031 203 1074 241 1128 223" stroke="url(#accent)" stroke-width="2" stroke-dasharray="6 9" opacity=".72"/>
+<path d="M857 258C922 259 962 234 996 196C1033 154 1082 120 1135 139" stroke="url(#warm)" stroke-width="2" stroke-dasharray="4 10" opacity=".6"/>
+<g filter="url(#glow)" opacity=".35"><circle cx="862" cy="89" r="15" fill="#7CF7D4"/><circle cx="1000" cy="161" r="17" fill="#78A9FF"/><circle cx="1128" cy="223" r="15" fill="#A78BFA"/></g>
+<circle cx="862" cy="89" r="9" fill="#07111F" stroke="#7CF7D4" stroke-width="3"/>
+<circle cx="1000" cy="161" r="9" fill="#07111F" stroke="#78A9FF" stroke-width="3"/>
+<circle cx="1128" cy="223" r="9" fill="#07111F" stroke="#A78BFA" stroke-width="3"/>
+<circle cx="857" cy="258" r="7" fill="#07111F" stroke="#FFB86B" stroke-width="3"/>
+<circle cx="1135" cy="139" r="7" fill="#07111F" stroke="#FF6B8A" stroke-width="3"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+<rect x="796" y="110" width="126" height="35" rx="9" fill="#0A1727" stroke="#294663"/><text x="817" y="132" fill="#B8CADD">01 / systems</text>
+<rect x="930" y="204" width="112" height="35" rx="9" fill="#0A1727" stroke="#294663"/><text x="950" y="226" fill="#B8CADD">02 / play</text>
+<rect x="1020" y="264" width="142" height="35" rx="9" fill="#0A1727" stroke="#294663"/><text x="1040" y="286" fill="#B8CADD">03 / contribute</text>
+</g>
+</g>
+<rect x="1" y="1" width="1198" height="358" rx="27" stroke="url(#accent)" stroke-opacity=".22" stroke-width="2"/>
+</svg>
