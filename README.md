@@ -1,34 +1,60 @@
-<h1 align="center">Hi 👋, I'm Hamees</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redsteadz&label=Profile%20views&color=0e75b6&style=flat" alt="redsteadz" /> </p>
-
-- 🔭 I’m currently working on [RedsRedis](https://github.com/redsteadz/RedsRedis)
-
-- 🌱 I’m currently learning **Data visualization, Game programming and design**
-
-- 👯 I’m looking to collaborate on **Any project intriguing :)**
-
-- 👨‍💻 All of my projects are available at [TBD](TBD)
-
-- 📝 I regularly write articles on [TBD](TBD)
-
-- 💬 Ask me about **react, nextjs, nodejs, linux, c, cpp, rust, mongodb, redis**
-
-- 📫 How to reach me **hamees.ehsan@gmail.com**
-
-- 📄 Know about my experiences [TBD](TBD)
-
-- ⚡ Fun fact **I think I am *mysterious* ~ Apparently :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamees (redsteadz) ehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamees (redsteadz) ehsan" height="30" width="40" /></a>
+<p align="center">
+  <img src="./profile-banner.svg" alt="Hamees Ehsan — backend systems, open source, and playful software" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://redsteadz.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-07111F?style=for-the-badge&logo=firefoxbrowser&logoColor=7CF7D4" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hamees-ehsan-06a24824a/"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=78A9FF" alt="LinkedIn" /></a>
+</p>
 
+<p align="center">
+  <strong>Backend & systems engineer from Karachi, Pakistan.</strong><br />
+  Production APIs, asynchronous workflows, data-heavy applications, game logic, and the occasional strange experiment.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redsteadz&show_icons=true&locale=en" alt="redsteadz" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redsteadz&" alt="redsteadz" /></p>
+## `hello, world`
+
+I am a final-year Computer Science student at **FAST-NUCES** and a software engineer who likes understanding systems beyond the happy path: how data moves, what fails under load, where abstractions leak, and how the experience can still feel simple to the person using it.
+
+| `systems/` | `playground/` | `open-source/` |
+|:---|:---|:---|
+| Backend architecture, distributed workflows, databases, automation, and infrastructure | Game AI, simulations, procedural generation, and developer tools | Contributing to software I use and learning through maintainer feedback |
+
+<br />
+
+## `selected_work/`
+
+| Project | What made it interesting |
+|:---|:---|
+| **[RedsRedis](https://github.com/redsteadz/RedsRedis)** | A multithreaded Redis-like server in C++ exploring sockets, custom data structures, sorted sets, packet handling, and offset-based retrieval. |
+| **[ChaosCraze](https://github.com/redsteadz/ChaosCraze)** | An emergent NPC simulation where sentiment, age, occupation, and proximity influence interactions inside a reactive world. |
+| **[PACMAN](https://github.com/redsteadz/PACMAN)** | A from-scratch recreation with distinct ghost targeting strategies, chase and scatter states, effects, and an in-game map editor. |
+| **[PuzzledChess](https://github.com/redsteadz/PuzzledChess)** | A Lichess-powered chess puzzle game with animated moves, custom interface components, and multiple challenge modes. |
+| **[Agentic Interviewer](https://github.com/redsteadz/Agentic-Interviewer)** | An AI phone-interview platform with campaigns, scheduled calls, live transcripts, website analysis, and reporting. |
+| **[WabbitWorks Backend](https://github.com/redsteadz/wabbitworks-backend)** | A production-style task API with OAuth, secure sessions, invitations, notifications, background cleanup, and generated API documentation. |
+
+<br />
+
+## `open-source/`
+
+I contribute to **Nextcloud and its wider app ecosystem**, working across the server, Passwords, and Budget projects. What I value most is the process: understand a real problem, navigate an established codebase, learn from maintainer feedback, and leave the product a little better than I found it.
+
+Open source is personal beyond contributions. My self-hosted Nextcloud setup grew from a tiny Android TV box into a home server for storage, automation, private services, and experiments — a constant reminder of how far accessible software can take an idea.
+
+<br />
+
+## `toolbox/`
+
+`Python` · `Django` · `FastAPI` · `Go` · `C++` · `TypeScript` · `React` · `PostgreSQL` · `Redis` · `Celery` · `Kafka` · `Docker` · `Linux` · `Cloudflare`
+
+<br />
+
+## `beyond_code/`
+
+Competitive programmer and ICPC World Finalist from Pakistan. Linux enthusiast. Interested in privacy-respecting infrastructure, self-hosting, AI systems, and creative programming. Always happy to talk about a difficult system, a strange bug, or a project that was simply fun to build.
+
+<br />
+
+<p align="center"><sub><strong>Build it. Break it. Understand it. Leave it better.</strong></sub></p>
