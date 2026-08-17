@@ -27,13 +27,11 @@ I am a final-year Computer Science student at **FAST-NUCES** and a software engi
 ## `selected_work/`
 
 | Project | What made it interesting |
-|:---|:---|
+| :--- | :--- |
 | **[RedsRedis](https://github.com/redsteadz/RedsRedis)** | A multithreaded Redis-like server in C++ exploring sockets, custom data structures, sorted sets, packet handling, and offset-based retrieval. |
 | **[ChaosCraze](https://github.com/redsteadz/ChaosCraze)** | An emergent NPC simulation where sentiment, age, occupation, and proximity influence interactions inside a reactive world. |
 | **[PACMAN](https://github.com/redsteadz/PACMAN)** | A from-scratch recreation with distinct ghost targeting strategies, chase and scatter states, effects, and an in-game map editor. |
 | **[PuzzledChess](https://github.com/redsteadz/PuzzledChess)** | A Lichess-powered chess puzzle game with animated moves, custom interface components, and multiple challenge modes. |
-| **[Agentic Interviewer](https://github.com/redsteadz/Agentic-Interviewer)** | An AI phone-interview platform with campaigns, scheduled calls, live transcripts, website analysis, and reporting. |
-| **[WabbitWorks Backend](https://github.com/redsteadz/wabbitworks-backend)** | A production-style task API with OAuth, secure sessions, invitations, notifications, background cleanup, and generated API documentation. |
 
 <br />
 
